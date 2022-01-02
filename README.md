@@ -2,6 +2,10 @@
 
 [Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
 
+## Screenshot
+<img width="469" alt="reviews-slider screenshot" src="https://user-images.githubusercontent.com/36413759/147871304-79422ca0-25ca-4b36-ba78-fbfc9461dba2.png">
+
+
 ## Install react icons
 
 `npm install react-icons`
