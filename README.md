@@ -7,8 +7,11 @@
 
 
 ## Install react icons
+[react icons](https://react-icons.github.io/react-icons/)
 
-```npm install react-icons```
+```
+npm install react-icons
+```
 
 # Getting Started with Create React App
 
